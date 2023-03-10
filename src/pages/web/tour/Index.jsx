@@ -11,7 +11,7 @@ import Cookies from "js-cookie";
 
 function WebToursIndex() {
 	//title page
-	document.title = "PMG | Wisata";
+	document.title = "Traveling | Wisata";
 
 	//state tours
 	const token = Cookies.get("token");

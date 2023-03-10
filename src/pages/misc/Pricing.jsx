@@ -7,7 +7,7 @@ import CardPrice from "../../components/utilities/pricing/CardPrice";
 
 function Pricing() {
 	//title page
-	document.title = "PMG | Pricing";
+	document.title = "Traveling | Pricing";
 
 	//state tours
 	const token = Cookies.get("token");

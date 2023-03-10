@@ -7,7 +7,7 @@ import LayoutWeb from "../../layouts/Web";
 
 function Register() {
 	//title page
-	document.title = "PMG | Register";
+	document.title = "Traveling | Register";
 
 	//state user
 	const [name, setNamed] = useState("");

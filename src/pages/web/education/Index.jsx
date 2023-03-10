@@ -11,7 +11,7 @@ import Cookies from "js-cookie";
 
 function WebEducationsIndex() {
 	//title page
-	document.title = "PMG | Edukasi";
+	document.title = "Traveling | Edukasi";
 
 	//state educations
 	const token = Cookies.get("token");

@@ -7,7 +7,7 @@ import Cookies from "js-cookie";
 
 function Favorite() {
 	//title page
-	document.title = "PMG | My Favorite";
+	document.title = "Traveling | My Favorite";
 
 	//state tours
 	const token = Cookies.get("token");

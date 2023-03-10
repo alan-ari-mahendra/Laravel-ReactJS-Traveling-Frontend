@@ -8,7 +8,7 @@ import { SkeletonBlog } from "../../../components/utilities/skeleton";
 
 function Blog() {
 	//title page
-	document.title = "PMG | Blog";
+	document.title = "Traveling | Blog";
 
 	//states
 	const [blogs, setBlogs] = useState([]);

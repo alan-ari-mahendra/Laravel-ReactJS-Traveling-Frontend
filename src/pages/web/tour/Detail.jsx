@@ -82,7 +82,7 @@ function WebPlaceShow() {
 				setNotLoggedIn(response.data.not_logged_in);
 				setNotYetPaid(response.data.not_yet_paid);
 				//set title from state "category"
-				document.title = `${response.data.data.title} - PMG`;
+				document.title = `${response.data.data.title} - Traveling`;
 
 				setLoading(false);
 				setHideNullData(false);

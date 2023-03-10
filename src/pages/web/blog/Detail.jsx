@@ -28,9 +28,9 @@ function BlogDetail() {
 	const [validation, setValidation] = useState({});
 
 	if (seoTitle !== null) {
-		document.title = `${seoTitle} | PMG`;
+		document.title = `${seoTitle} | Traveling`;
 	} else {
-		document.title = `${title} | PMG`;
+		document.title = `${title} | Traveling`;
 	}
 
 	const fetchDataBlog = async () => {

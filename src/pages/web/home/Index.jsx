@@ -21,7 +21,7 @@ import { SkeletonHome } from "../../../components/utilities/skeleton";
 import { SearchAll } from "../../../components/utilities/home/SearchAll";
 
 function Home() {
-	document.title = "PMG | Home";
+	document.title = "Traveling | Home";
 	const [sliderimages, setSliderImages] = useState([]);
 	const [disedus, setDisEdus] = useState([]);
 	const [discities, setDisCities] = useState([]);

@@ -19,7 +19,7 @@ import LayoutWeb from "../../layouts/Web";
 
 function Login() {
 	//title page
-	document.title = "Login | PMG";
+	document.title = "Login | Traveling";
 
 	//state user
 	const [email, setEmail] = useState("");

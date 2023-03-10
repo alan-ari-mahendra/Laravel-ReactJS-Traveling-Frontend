@@ -6,7 +6,7 @@ import toast from "react-hot-toast";
 import { useHistory } from "react-router-dom";
 
 function Account() {
-	document.title = "PMG | Account";
+	document.title = "Traveling | Account";
 	const [name, setNamed] = useState("");
 	//state loading
 	const [isLoading, setLoading] = useState(false);

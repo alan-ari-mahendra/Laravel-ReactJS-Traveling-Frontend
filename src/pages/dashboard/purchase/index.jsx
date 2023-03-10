@@ -11,7 +11,7 @@ import Cookies from "js-cookie";
 
 function Purchase() {
 	//title page
-	document.title = "PMG | Riwayat Pembayaran";
+	document.title = "Traveling | Riwayat Pembayaran";
 
 	//state tours
 	const token = Cookies.get("token");

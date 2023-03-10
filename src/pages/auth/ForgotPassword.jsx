@@ -15,7 +15,7 @@ import LayoutWeb from "../../layouts/Web";
 
 function ForgotPassword() {
 	//title page
-	document.title = "PMG | Forgot Password";
+	document.title = "Traveling | Forgot Password";
 
 	//state user
 	const [email, setEmail] = useState("");
