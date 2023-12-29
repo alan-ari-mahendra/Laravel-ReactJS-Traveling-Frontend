@@ -127,7 +127,7 @@ function Purchase() {
 												href={currentPackage.last_created_invoice_url}
 												className="mt-4 bg-yellow-500 px-4 py-2 rounded-md text-white"
 											>
-												Bayar Sekarang
+												Bayar Sekarang!
 											</a>
 										</div>
 									)}
